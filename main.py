@@ -12,7 +12,7 @@ import math
 # -------------------------------
 # Настройки
 # -------------------------------
-API_TOKEN = "7840419442:AAEkZQsU5yjGquJfyCad2jWHnbKzIUNweOM"  # Замените на токен вашего бота
+API_TOKEN = "Your Bot Token"  # Замените на токен вашего бота
 DOWNLOAD_DIR = "downloads"
 WATERMARKS_DIR = "watermarks"
 DEFAULT_QUALITY = "480p"
